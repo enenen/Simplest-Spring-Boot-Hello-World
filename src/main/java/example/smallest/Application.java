@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 import org.springframework.context.annotation.ComponentScan;
 
+bla 
 @ComponentScan
 @EnableAutoConfiguration
 public class Application extends SpringBootServletInitializer {
