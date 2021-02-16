@@ -48,7 +48,7 @@
 	<distributionManagement>
           <snapshotRepository>
                <id>nexus-snapshots</id>
-               <url>https://nexus.mos.ru/nexus/content/repositories/efp-workshop_maven</url>
+               <url>https://nexus.mos.ru/repository/efp-workshop_maven</url>
         </snapshotRepository>
 </distributionManagement>
 </project>
